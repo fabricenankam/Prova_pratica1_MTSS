@@ -7,5 +7,6 @@ Riferisciti a processori.md per i processori.
 
 periferiche :
 Riferisciti a mouse.md per mouse.
+Riferisciti a tastiere.md per le tastiere.
 
 Elettronica Padovana
